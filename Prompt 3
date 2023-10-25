@@ -1,0 +1,7 @@
+def main():
+    x = np.linspace(0.0, 2*np.pi , nom = 1000
+    sinx = np.sin(x)
+    print(f" x  |  sin(x)")
+    print ("---------")
+    for i in range(10)
+        print(f"{x[i]:.5} | {sinx[i]: .5}
